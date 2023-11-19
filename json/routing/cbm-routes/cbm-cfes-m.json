@@ -1,0 +1,42 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/cfes-cbm-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{					
+					"id": "r-cfes-m",
+					"title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cfes-m",
+                   	"image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.2428",
+                    "y": "0.2131"
+				},
+				{
+					"id": "r-cbm-m",
+					"title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.5767",
+                    "y": "0.2107"
+				}	
+								
+			]
+		}	
+	]
+}

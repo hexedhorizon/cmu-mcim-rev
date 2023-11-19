@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/cfes-routes/cfes-admin.svg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{
+		            "id": "r-adm",
+		            "title": "Administration Building",
+		            "about": "",
+		            "description": "",
+		            "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+		            "pin":"blue iconpin fa fa-institution",
+		            "x": "0.5551",
+		            "y": "0.3160"
+		        },
+				{					
+					"id": "r-cfes-m",
+					"title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cfes-m",
+                   	"image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.2428",
+                    "y": "0.2131"
+				}
+			]
+		}	
+	]
+}

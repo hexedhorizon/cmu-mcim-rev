@@ -1,0 +1,167 @@
+<ion-view view-title="">
+  <ion-content>
+<!--
+<div ng-repeat="items in items.info">
+    <div class="list">
+     <div class="item item-image">    
+        <img src="img/views/header/cas.jpg">
+          <div class="text-on-image card-title-shadow">
+            <h2 >College <br>of <br>Arts<br>and Sciences</h2>
+            <h3></h3>
+          </div> 
+      </div>
+          <div class="fab-zone">
+            <img class="college-details-header-logo" src="img/views/logo/cas_logo.png"></b <img class="sidemenu-header-logo" src="img/cmu_trans.png">
+          </div>
+ </div>
+   <div class="list">
+    <div class="item item-divider">
+       <i class="icon ion-compose" ></i>
+       College Overview
+    </div>
+
+      <span class="location">
+        <p class="loc-details">The College of Arts and Sciences became 45 years old on June 2010. Established as a service college on 1965 with the elevation of the former Mindanao Agricultural College (MAC) to Central Mindanao University (CMU) by virtue to RA 4498, the college started with only two departments: Humanities and the Natural Sciences, each one having two or more divisions. In the 1980’s up to the present, CAS metamorphosed into Physics, Mathematics, Social Sciences, Behavioural Sciences, Language and literature, Biology and Chemistry from two degree programs in 1971- Bachelor of Arts major in English and Bachelor of Liberal Studies- the college now offers nine undergraduate degree programs (AB English, AB Psychology, AB Sociology, AB History, BS Biology, BS Chemistry, and BS Mathematics), four Master’s Degree Programs (MA Anthropology, MA English, MA Mathematics, and MS Biology). Along with the increase in the degree programs is the change of the CAS building from basically a one-storey building in 1965 to a three-storey building in 1980.
+        </p>
+        <p>In 2005, a new two-storey building was added and in 2009, another one-storey building with five classroom conducive for learning to the infrastructure of the CAS. There are men and women, who have graduated from the college and who are now responsible and productive members of the society, are but indicators that the college has done its share to make CMU achieve its mission, vision, goals, and objectives.
+        </p>
+      </span>
+
+    <div class="item item-divider">
+       <i class="icon ion-compose" ></i>
+       College Goals
+    </div>
+     <span class="location">
+        <p> The College of Arts and Sciences shall service other colleges by offering general education courses that will enable future professionals to effectively function in society; produce graduates with competencies in the natural, physical, social and behavioral sciences as well as in the Arts, imbued with humanistic and ethical values and with a clear understanding of their Filipino heritage; develop manpower to promote quality research, extension and production activities for sustainable development and environment conservation; and establish linkages with academic, government, and other agencies to uplift the quality of life in the region.
+        </p>
+      </span>
+
+    <div class="item item-divider">
+       <i class="icon ion-compose" ></i>
+       College Objectives
+    </div>
+      <span class="location">
+        <p>To provide quality, humanistic and scientific education and training to undergraduate and graduate students of the college so as to enable them to live effectively in a changing human society. To develop an analytical and searching mind as well as certain level of skills that can serve the needs of mankind for a better world of tomorrow. To graduate individuals imbued with environmental consciousness, endowed with humility in greatness, compassion for their fellowmen and above all, love of country. To strengthen the faculty members of the college through its Faculty Development Program. To improve, renovate the existing classrooms, laboratories and audiovisual hall of the college as well as to build additional building of the college to cater to the increasing enrolment of students per year. To acquire latest equipment and facilities to allow the students to have hands on experience as part of their training. To develop research and extension capabilities of the college</p>
+      </span>
+
+    <div class="item item-divider">
+       <i class="icon ion-compose" ></i>
+       Courses Offered
+    </div>
+     <div class="list">
+        <p class="item">
+          Bachelor of Science in Biology
+        </p>
+        <p class="item">
+          Bachelor of Arts in English and Language Studies
+        </p>
+        <p class="item">
+          Bachelor of Arts in History
+        </p>
+        <p class="item">
+          Bachelor of Arts in Political Science
+        </p>
+        <p class="item">
+          Bachelor of Science in Psychology
+        </p>
+        <p class="item">
+          Bachelor of Arts in Sociology
+        </p>
+      </div>
+
+    <div class="item item-divider">
+       <i class="icon ion-compose" ></i>
+       Directory
+    </div>
+    <span></span>
+</div>
+-->
+<div class="col-xs-12 col-md-6 col-lg-5">
+  <div class="product-card">
+    <div class="card-block">
+      <div ng-repeat="items in items.info">
+
+<div class="list">
+      <div class="item item-image">    
+        <img src="img/views/header/cas.jpg">
+          <div class="text-on-image card-title-shadow">
+          </div> 
+      </div>
+          <div class="fab-zone">
+            <img class="college-details-header-logo" src="img/views/logo/cas_logo.png"></b <img class="sidemenu-header-logo" src="img/cmu_trans.png">
+          </div>
+           <h3 style="white-space: normal;" >College of Arts and Sciences</h3>
+  </div>
+
+     <div class="list">
+      <div class="item item-divider">
+         <i class="icon ion-compose" ></i>
+         College Overview
+      </div>
+        <span class="location">
+         <p>{{items.col_overview}}</p>
+        </span>
+
+      <div class="item item-divider">
+         <i class="icon ion-compose" ></i>
+         College Vision
+      </div>
+         <span class="location">
+          <p>{{items.col_vision}}</p>
+         </span>
+
+      <div class="item item-divider">
+         <i class="icon ion-compose" ></i>
+         College Mission
+      </div>
+         <span class="location">
+          <p>{{items.col_mission}}</p>
+         </span>
+       
+       <div class="item item-divider">
+         <i class="icon ion-compose" ></i>
+         College Goals
+      </div>
+         <span class="location">
+          <p>{{items.col_goals}}</p>
+         </span>
+
+      <div class="item item-divider">
+         <i class="icon ion-compose" ></i>
+         College Objectives
+      </div>
+         <span class="location">
+          <p>{{items.col_objectives}}</p>
+         </span>
+
+     
+        <div class="item item-divider">
+           <i class="icon ion-compose" ></i>
+           Courses Offered
+        </div>
+         
+        <div class="list">
+          <div ng-repeat="items1 in items1.info">
+            <p class="item" style="white-space: normal;">{{items1.course_name}}<br>{{items1.course_description}}</p>
+          </div>
+        <div>
+
+
+      <span></span>
+<div>
+
+    </div>
+  </div>    
+</div>
+      <!--
+      <div class="card-footer">
+        <small class="text-muted">Last updated 3 mins ago</small>
+      </div>
+    -->
+
+
+ 
+
+  </ion-content>
+</ion-view>
+ 

@@ -1,0 +1,39 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/che-cbm-m.jpg",
+			"locations": [
+				{
+					"id": "r-cbm-m",
+					"title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.5767",
+                    "y": "0.2107"
+				}, 
+				{
+					"id": "r-che-m",
+					"title": "College of Human Ecology",
+					"about": "",
+					"description": "",
+					"image": "img/cmu/BuildingPreviews/sample.jpg",
+					 "pin": "red iconpin fa ion-android-walk",
+					"x": "0.3770",
+					"y": "0.3978"
+				}
+			]
+		}	
+	]
+}

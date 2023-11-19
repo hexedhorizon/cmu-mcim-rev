@@ -1,0 +1,21 @@
+<ion-view view-title="">
+  <ion-content>
+   <div class="col-xs-12 col-md-6 col-lg-5">
+      <div class="product-card">
+          <ion-slide-box show-pager="true">
+            <ion-slide ng-repeat="i in [1]">
+                    <div class="item item-image">
+                      <img ng-src="img/preview/coed/{{i}}.jpg">
+                    </div>        
+            </ion-slide>
+          </ion-slide-box>
+            <div class="card-block">
+              <h4 class="card-title">College of Education Main Building</h4>
+              <p class="card-text"></p>
+            </div> 
+            <a class="button button-positive  button-full icon-right ion-clipboard"  href="#/app/vw-coed-m" >View More</a>
+            <!--<a class="button button-full button-calm  icon-right ion-forward"  href="#/app/pr-rt-coed-m"  >Directions</a>-->
+            <a class="button button-balanced button-full icon-right ion-map"  href="?location=f-coed-m" >Go to map</a>
+      </div>
+    </div>
+  </ion-content>

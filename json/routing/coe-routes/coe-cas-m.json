@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/coe-cas-m.jpg",
+			"locations": [
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.6365",
+                    "y": "0.3101"
+				},
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coe-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.7340",
+                    "y": "0.1317"
+				}
+			]
+		}	
+	]
+}

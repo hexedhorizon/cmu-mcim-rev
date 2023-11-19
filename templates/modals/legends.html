@@ -1,0 +1,26 @@
+<ion-modal-view>
+        <ion-header-bar class="bar bar-header bar-balanced">
+          <h1 class="title">Map Legends</h1>
+          <button class="button button-clear button-primary" ng-click="modal.hide()">Close</button>
+        </ion-header-bar>
+        <br>
+          <br>
+            <div class="list">
+              <ion-item  menu-close class="item item-icon-left" ng-repeat="legend in legends" >
+                <i class="{{legend.icon}}" ></i>
+                  <h2>{{legend.title}}</h2>
+              </ion-item>
+            </div>
+      </ion-modal-view>
+
+ <script id="modal.html" type="text/ng-template">
+      <div class="modal">
+        <header class="bar bar-header bar-positive">
+          <h1 class="title">Im A Modal</h1>
+          <div class="button button-clear" ng-click="modal1.hide()"><span class="icon ion-close"></span></div>
+        </header>
+        <content has-header="true" padding="true">
+          <p>This is a modal</p>
+        </content>
+      </div>
+    </script>

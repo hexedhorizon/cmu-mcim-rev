@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/coe-che-m.jpg",
+			"locations": [
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coe-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.7340",
+                    "y": "0.1317"
+				},
+				{
+					"id": "r-che-m",
+					"title": "College of Human Ecology",
+					"about": "",
+					"description": "",
+					"image": "img/cmu/BuildingPreviews/sample.jpg",
+					 "pin": "red iconpin fa ion-android-walk",
+					"x": "0.3770",
+					"y": "0.3978"
+				}
+			]
+		}	
+	]
+}

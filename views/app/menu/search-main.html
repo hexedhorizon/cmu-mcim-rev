@@ -1,0 +1,37 @@
+<ion-view view-title="Search">
+ <ion-nav-buttons side="right">
+    <!--<button ng-click="showHelp()" class="button button-icon icon ion-help-circled"></button>-->
+ </ion-nav-buttons>
+ 
+ 
+  <ion-content drag-content="false" scroll="false">
+  	<ion-content> 
+       
+      <div >
+        <label class="item item-input ">
+          <i class="icon ion-search placeholder-icon"></i>
+          <div class="search-category">
+            <input type="text" ng-model="input.filterUser" placeholder="Search">
+          </div>
+        </label>
+  </div>
+         <div class="search-filtered">
+        <div ng-repeat="data in searchData">
+          <div ng-repeat="search in data.searchs | filter:input.filterUser">
+            <div class="item item-divider"> 
+              <p style="margin-top:5px;">{{search.category}}</p>
+            </div>
+          <a class="item item-thumbnail-left" ng-repeat="list in search.lists | filter:input.filterUser" href="{{list.searchlink}}" >
+               <!--<a class="item item-avatar" ng-repeat="list in search.lists | filter:input.filterUser" ng-click="{{list.modal}}" >-->
+               <img src="{{list.image}}">
+              <h2  style=" margin-top:25px;
+                           white-space: normal;">{{list.title}}</h2>
+              <p   style=" white-space: normal;">{{list.description}}</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </ion-content>  
+   </ion-content> 
+</ion-view> 
+   

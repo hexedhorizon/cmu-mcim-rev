@@ -1,0 +1,16 @@
+<ion-view class="profile-view">
+  <ion-nav-title>
+    <span>Tutorial</span>
+  </ion-nav-title>
+  
+  <ion-content>
+   <ion-slide-box show-pager="true">
+          <ion-slide ng-repeat="i in [1,2,3,4]">
+                  <div class="item item-image">
+                    <img ng-src="img/tutorial/{{i}}.jpg">
+                  </div>
+                 
+          </ion-slide>
+   </ion-slide-box>
+  </ion-content>
+</ion-view>

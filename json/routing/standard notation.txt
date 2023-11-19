@@ -1,0 +1,121 @@
+
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-cas-m",
+                         "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                         "x": "0.6291",
+                         "y": "0.3195"
+				},	
+				{
+     				"id": "r-coa-m",
+     				"title": "College of Agriculture",
+     				"about": "",
+     				"description": "",
+     				"link": "#/app/pr-coa-m",
+     				"image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+     				"pin": "blue  iconpin fa fa-institution",
+     				x": "0.4289", 
+                         "y": "0.1898"
+				},
+				{
+					"id": "r-cbm-m",
+					"title": "College of Business Management",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-cbm-m",
+                         "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                          "x": "0.5620",
+                         "y": "0.2314"
+				}, 
+				{
+					"id": "r-coed-m",
+					"title": "College of Education",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-coed-m",
+                         "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                         "x": "0.6587",
+                         "y": "0.2425"
+				},
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-coe-m",
+                         "category": "col",
+                         "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                         "x": "0.7304",
+                         "y": "0.1287"
+				},
+				{			
+					"id": "r-con-m",
+					"title": "College of Nursing",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-con-m",
+                         "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                         "x": "0.2820",
+                         "y": "0.4214"
+				},
+				{			
+					"id": "r-cvm-m",
+					"title": "College of Veterinary Medicine",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-cvm-m",
+                         "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                          "x": "0.5391",
+                         "y": "0.1273"
+				},
+				{
+		            "id": "r-adm",
+		            "title": "Administration Building",
+		            "about": "",
+		            "description": "",
+		            "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+		            "pin":"blue iconpin fa fa-institution",
+		            "x": "0.5551",
+		            "y": "0.3160"
+		          },
+				{					
+					"id": "r-cfes-m",
+					"title": "College of Forestry and Environmental Science",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-cfes-m",
+                        	"image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                         "x": "0.2507",
+                         "y": "0.2117"
+				},
+				{
+					"id": "r-che-m",
+					"title": "College of Human Ecology",
+                         "about": "",
+                         "description": "",
+                         "link": "#/app/pr-che-m",
+                         "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+                         "pin": "blue  iconpin fa fa-institution",
+                        	"x": "0.3585",
+                         "y": "0.3165"
+				},
+                    {
+                         "id": "r-landmark-1",
+                         "title": "Turn Right",
+                         "about": "",
+                         "description": "121m",
+                         "image": "img/directions/turn-right.jpg",
+                         "pin": "circular",
+                         "x": "0.6480",
+                         "y": "0.3314"
+                    },

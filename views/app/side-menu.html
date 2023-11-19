@@ -1,0 +1,93 @@
+<ion-side-menus enable-menu-with-back-views="false">
+  <ion-side-menu-content class="post-size-14px">
+    <ion-nav-bar class="bar app-top-bar bar-balanced">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+      </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent"></ion-nav-view>
+  </ion-side-menu-content>
+  <ion-side-menu side="left" class="main-menu" expose-aside-when="large">
+    <ion-content>
+      <ion-list><!--
+        <ion-item class="heading-item item item-avatar" nav-clear menu-close ui-sref="app.profile">
+          <div class="user-image-container">
+            <pre-img ratio="_1_1" helper-class="rounded-image">
+              <img class="user-image" ng-src="https://s3.amazonaws.com/uifaces/faces/twitter/brynn/128.jpg" spinner-on-load>
+          	</pre-img>
+          </div>
+          <h2 class="greeting">Hi Brynn</h2>
+          <p class="message">Welcome back</p>
+        </ion-item>-->
+        <div class="customheader">
+          <div class="support-nav">
+            <div class="panel">
+              <div class="row">
+                <a >
+                   <img class="sidemenu-header-logo" src="img/cmu_trans.png">
+                </a>
+              </div>
+              <h1 class="sidemenu-header-title" style="margin-top:-34%;margin-left:75%;">Central </h1 >
+              <h1 class="sidemenu-header-title" style="margin-top:-28%;margin-left:67%;">Mindanao</h1 >
+              <h1 class="sidemenu-header-title" style="margin-top:-22%;margin-left:67%;">University</h1 >
+              <h1 class="sidemenu-header-title2" style="margin-top:-14%;margin-left:65%;">Interactive</h1 >
+              <h1 class="sidemenu-header-title2" style="margin-top:-8%;margin-left:57%;">Campus Map</h1 >
+            </div>
+          </div>
+        </div>
+         <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.map-main">
+          <i class="icon icon ion-map"></i>
+          <h2 class="menu-text">Campus Spot Map</h2>
+          <p>Navigate in the <br>Campus Map</p>
+        </ion-item>
+        
+        <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.web-map" >
+          <i class="icon ion-ios-flask-outline"></i>
+          <h2 class="menu-text">Campus Web Map</h2>
+          <p>This feature is under development</p>
+        </ion-item>
+      
+        <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.search-main">
+         <i class="icon ion-android-search"></i>
+          <h2 class="menu-text">Search</h2>
+          <p>Search for information<br>in the Campus Map</p>
+        </ion-item>
+         <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.route-main">
+          <i class="icon icon ion-ios-paperplane"></i>
+          <h2 class="menu-text">Campus Routes</h2>
+          <p>View specific routes<br>in the Campus</p>
+        </ion-item>     
+         <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.feeds-categories">
+          <i class="icon ion-ios-paper-outline"></i>
+          <h2 class="menu-text">News Feed</h2>
+          <p style="white-space: normal">View News and Updates about the Campus</p>
+        </ion-item> 
+         </ion-item>
+         <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.about" >
+          <i class="icon ion-ios-flask-outline"></i>
+          <h2 class="menu-text">About</h2>
+          <p>All about this <br>mobile application</p>
+        </ion-item>
+
+         <!--
+        <ion-item class="item-icon-left" nav-clear menu-close  >
+          <i class="icon ion-code-working" ng-click="ionic.Platform.exitApp()"></i>
+          <h2 class="menu-text">Exit</h2>
+          <p></br></p>
+        </ion-item>
+     
+        <ion-item class="item-icon-left" nav-clear menu-close ui-sref="app.wordpress">
+          <i class="icon ion-social-wordpress"></i>
+          <h2 class="menu-text">Wordpress</h2>
+        </ion-item>-->
+
+
+        
+
+    </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

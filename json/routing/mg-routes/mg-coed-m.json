@@ -1,0 +1,70 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-coed-m.jpg",
+			"locations": [
+				{
+					"id": "r-coed-m",
+					"title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.6587",
+                    "y": "0.2425"
+				},
+				{
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 85m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "147m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6480",
+                    "y": "0.3314"
+				},
+				{
+					"id": "r-landmark-2",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "54.4m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-left.jpg",
+                    "pin": "circular",
+                    "x": "0.6883",
+                    "y": "0.2693"
+				},
+				{
+					"id": "r-landmark-3",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "10m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6495",
+                    "y": "0.2583"
+				}	
+								
+			]
+		}	
+	]
+} 

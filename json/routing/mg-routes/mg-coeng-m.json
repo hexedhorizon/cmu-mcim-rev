@@ -1,0 +1,92 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-coe-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coe-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.7340",
+                    "y": "0.1317"
+				},
+				{
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 85m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "121m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6480",
+                    "y": "0.3314"
+				},
+				{
+					"id": "r-landmark-2",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "110m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-left.jpg",
+                    "pin": "circular",
+                    "x": "0.6882",
+                    "y": "0.2699"
+				},
+				{
+					"id": "r-landmark-3",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "199m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6115",
+                    "y": "0.2465"
+				},
+				{
+					"id": "r-landmark-4",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "31m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6762",
+                    "y": "0.1375"
+				},
+				{
+					"id": "r-landmark-5",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "47m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-left.jpg",
+                    "pin": "circular",
+                    "x": "0.7091",
+                    "y": "0.1481"
+				}	
+								
+			]
+		}	
+	]
+} 

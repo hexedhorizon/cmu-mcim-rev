@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/coa-cbm-m.jpg",
+			"locations": [
+				{
+					"id": "r-cbm-m",
+					"title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.5767",
+                    "y": "0.2107"
+				}, 
+				{
+					"id": "r-coa-m",
+					"title": "College of Agriculture",
+					"about": "",
+					"description": "",
+					"link": "#/app/pr-coa-m",
+					"image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+					 "pin": "red iconpin fa ion-android-walk",
+					"x": "0.4117", 
+                    "y": "0.1908"
+				}
+			]
+		}	
+	]
+}

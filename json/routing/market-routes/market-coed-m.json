@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/market-coed-m.jpg",
+			"locations": [
+				{
+					"id": "r-coed-m",
+					"title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "pin": "red  iconpin fa ion-android-walk",
+                    "x": "0.6589",
+                    "y": "0.2428"
+				},
+				{
+					"id": "r-market-m",
+					"title": "University Commercial Complex",
+                    "about": "",
+                    "description": "University Market",         
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/market.jpg",
+					"pin": "blue  iconpin fa fa-institution",
+					"x": "0.4158", 
+                    "y": "0.6971"
+				}			
+								
+			]
+		}	
+	]
+} 

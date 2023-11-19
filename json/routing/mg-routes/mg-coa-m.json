@@ -1,0 +1,68 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-coa-m.jpg",
+			"locations": [
+				{
+					"id": "r-coa-m",
+					"title": "College of Agriculture",
+					"about": "",
+					"description": "",
+					"image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+					"pin": "blue  iconpin fa fa-institution",
+					"x": "0.4289", 
+                    "y": "0.1898"
+				},
+				{
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 85m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "121m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6480",
+                    "y": "0.3314"
+				},
+				{
+					"id": "r-landmark-2",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "323m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-left.jpg",
+                    "pin": "circular",
+                    "x": "0.6882",
+                    "y": "0.2699"
+				},
+				{
+					"id": "r-landmark-3",
+					"title": "Turn Right Diagonally",
+                    "about": "",
+                    "description": "34m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.4454",
+                    "y": "0.1952"
+				}							
+			]
+		}	
+	]
+} 

@@ -1,0 +1,38 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/che-adm.jpg",
+			"locations": [
+				{
+		            "id": "r-adm",
+		            "title": "Administration Building",
+		            "about": "",
+		            "description": "",
+		            "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+		            "pin":"blue iconpin fa fa-institution",
+		            "x": "0.5551",
+		            "y": "0.3160"
+		        },
+				{
+					"id": "r-che-m",
+					"title": "College of Human Ecology",
+					"about": "",
+					"description": "",
+					"image": "img/cmu/BuildingPreviews/sample.jpg",
+					 "pin": "red iconpin fa ion-android-walk",
+					"x": "0.3770",
+					"y": "0.3978"
+				}
+			]
+		}	
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			 
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-che-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{
+					"id": "r-che-m",
+					"title": "College of Human Ecology",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-che-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.3585",
+                    "y": "0.3165"
+				},			
+				{ 
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 85m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "147m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-Left.jpg",
+                    "pin": "circular",
+                    "x": "0.6480",
+                    "y": "0.3314"
+				},
+				{
+					"id": "r-landmark-2",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "333m",
+                    "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+                    "pin": "circular",
+                    "x": "0.5931",
+                    "y": "0.4076"
+				}			
+			]
+		}	
+	]
+} 

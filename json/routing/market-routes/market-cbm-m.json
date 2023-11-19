@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/market-cbm-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{
+					"id": "r-cbm-m",
+					"title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "pin": "red  iconpin fa ion-android-walk",
+                    "x": "0.5628",
+                    "y": "0.2309"
+				}, 
+				{
+					"id": "r-market-m",
+					 "title": "University Commercial Complex",
+                    "about": "",
+                    "description": "University Market",         
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/market.jpg",
+					"pin": "blue  iconpin fa fa-institution",
+					"x": "0.4158", 
+                    "y": "0.6971"
+				}				
+			]
+		}	
+	]
+} 

@@ -1,0 +1,1047 @@
+{
+    "mapwidth": "600",
+    "mapheight": "900",
+    "categories": [
+    ],
+    "levels": [ 
+        {
+            "id": "all-buildings",
+            "title": "All Buildings",
+            "map":"lib/mapplic/maps/iso.svg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations":[ 
+                
+            ]
+        },
+        {
+            "id": "lndmrks-view",
+            "title": "Landmarks",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "cmu-letter",
+                    "title": "CMU Landmark",
+                    "about": "",
+                    "description": "",
+                    "category": "lnd",
+                    "image": "img/cmu/BuildingPreviews/landmarks/cmu-letter.jpg",
+                    "pin":"green iconpin fa fa-binoculars",
+                    "x": "0.6887",
+                    "y": "0.3280"
+                },
+                {
+                    "id": "cmu-obe",
+                    "title": "CMU Obelisk",
+                    "about": "",
+                    "description": "",
+                    "category": "lnd",
+                    "image": "img/cmu/BuildingPreviews/landmarks/obelisk.jpg",
+                    "pin":"green iconpin fa fa-binoculars",
+                    "x": "0.6035",
+                    "y": "0.3275"
+                },
+                {
+                    "id": "cmu-forestry",
+                    "title": "Forestry Stairs",
+                    "about": "",
+                    "description": "",
+                    
+                    "category": "lnd",
+                    "image": "img/cmu/BuildingPreviews/landmarks/stairs.jpg",
+                    "pin":"green iconpin fa fa-binoculars",
+                    "x": "0.3209",
+                    "y": "0.2387"
+                },
+                {
+                    "id": "mg",
+                    "title": "University Main Gate",    
+                    "about": "",
+                    "description": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/mg.jpg",
+                    "pin":"red iconpin fa fa-car",
+                    "x": "0.6909",
+                    "y": "0.3549"
+                }
+            ]
+        },
+        {
+            "id": "sar-view",
+            "title": "Sports and Recreation",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "gs",
+                    "title": "University Sports Complex",
+                    "about": "",
+                    "description": "",
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                    "x": "0.3784",
+                    "y": "0.6093"
+                },
+                {
+                    "id": "sh",
+                    "title": "Social Hall",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sports_and_rec/sh.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.4489",
+                    "y": "0.3872"
+                },
+                {
+                    "id": "sh-tennis",
+                    "title": "Tennis Court",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sports_and_rec/sh.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.4756",
+                    "y": "0.4047"
+                },
+                {
+                    "id": "basketball-court",
+                    "title": "Basketball Court",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.3960",
+                    "y": "0.6081"
+                },
+                {
+                    "id": "volleyball-court",
+                    "title": "Volleyball Court",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.3965",
+                    "y": "0.5887"
+                },
+                 {
+                    "id": "softball-diamond",
+                    "title": "Softball Diamond",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.4544",
+                    "y": "0.6949"
+                },
+                {
+                    "id": "track-field",
+                    "title": "Track Field",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.4228",
+                    "y": "0.6078"
+                },
+                {
+                    "id": "football-field",
+                    "title": "Football Field",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.4522",
+                    "y": "0.6042"
+                },
+                {
+                    "id": "badminton-court",
+                    "title": "Badminton Court",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sample.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                     "x": "0.4224",
+                    "y": "0.3728"
+                },
+                {
+                    "id": "up",
+                    "title": "University Swimming Pool",
+                    "about": "",
+                    "description": "", 
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sports_and_rec/upool.jpg",
+                    "pin":"blue iconpin fa fa-soccer-ball-o",
+                    "x": "0.5390",
+                    "y": "0.4549"
+                }
+            ]
+        },
+        {
+            "id": "food-view",
+            "title": "Food Places/Canteens",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "food-coa-m",
+                    "title": "College of Agriculture",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-ag-m",
+                    "searchlink":"vw-ag-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.4117", 
+                    "y": "0.1908"
+                },
+                {
+                    "id": "food-cas-m",
+                    "title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "searchlink":"vw-cas-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.6365",
+                    "y": "0.3101"
+                },
+                {
+                    "id": "food-cbm-m",
+                    "title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "searchlink":"vw-cbm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.5767",
+                    "y": "0.2107"
+                },
+                { 
+                    "id": "food-coed-m",
+                    "title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "searchlink":"vw-coed-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.6668",
+                    "y": "0.2354"
+                },
+                {
+                    "id": "food-coe-m",
+                    "title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coeng-m",
+                    "searchlink":"vw-coeng-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.7340",
+                    "y": "0.1317"
+                },
+                {
+                    "id": "food-cfes-m",
+                    "title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",  
+                    "link": "#/app/pr-cfes-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.2428",
+                    "y": "0.2131"
+                },
+                {
+                    "id": "food-che-m",
+                    "title": "College of Human Ecology",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-che-m",
+                    "searchlink":"vw-che-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.3601",
+                    "y": "0.3051"
+                },
+                {
+                    "id": "food-con-m",
+                    "title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "searchlink":"vw-con-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.2705",
+                    "y": "0.4380"
+                },
+                {
+                    "id": "food-cvm-m",
+                    "title": "College of Veterinary Medicine",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "searchlink":"vw-cvm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.5250",
+                    "y": "0.1216"
+                },
+                {
+                    "id": "food-cmulhs",
+                    "title": "Central Mindanao University Laboratory High School",    
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/cmulhs.jpg",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.5045",
+                    "y": "0.8844"
+                },
+                {
+                    "id": "food-mg",
+                    "title": "University Main Gate",    
+                    "about": "",
+                    "description": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/mg.jpg",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.6909",
+                    "y": "0.3549"
+                },
+                {
+                    "id": "food-cmu-fulbright",
+                    "title": "Fulbright Garden",
+                    "about": "",
+                    "description": "",         
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sports_and_rec/fulbright.jpg",
+                    "pin":"red iconpin fa fa-coffee",
+                    "x": "0.4826",
+                    "y": "0.4933"
+                },
+                 {
+                    "id": "food-f-market",
+                    "title": "University Commercial Complex",
+                    "about": "",
+                    "description": "University Market",         
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/market.jpg",
+                    "pin":"red iconpin fa fa-cutlery ",
+                    "x": "0.4294",
+                    "y": "0.7266"
+                }   
+                
+            ]
+        },
+        {
+            "id": "libraries-view",
+            "title": "Libraries",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "ulib",
+                    "title": "University Library",  
+                    "about": "",
+                    "description": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/ulib.jpg",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.4288",
+                    "y": "0.2716"
+                }, {
+                    "id": "lib-coa-m",
+                    "title": "College of Agriculture",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-ag-m",
+                    "searchlink":"vw-ag-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.4117", 
+                    "y": "0.1908"
+                },
+                {
+                    "id": "lib-cas-m",
+                    "title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "searchlink":"vw-cas-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.6365",
+                    "y": "0.3101"
+                },
+                {
+                    "id": "lib-cbm-m",
+                    "title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "searchlink":"vw-cbm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.5767",
+                    "y": "0.2107"
+                },
+                { 
+                    "id": "lib-coed-m",
+                    "title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "searchlink":"vw-coed-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.6668",
+                    "y": "0.2354"
+                },
+                {
+                    "id": "lib-coe-m",
+                    "title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coeng-m",
+                    "searchlink":"vw-coeng-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.7340",
+                    "y": "0.1317"
+                },
+                {
+                    "id": "lib-cfes-m",
+                    "title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",
+                    
+                    "link": "#/app/pr-cfes-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                   "pin":"blue iconpin fa fa-book",
+                    "x": "0.2428",
+                    "y": "0.2131"
+                },
+                {
+                    "id": "lib-che-m",
+                    "title": "College of Human Ecology",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-che-m",
+                    "searchlink":"vw-che-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.3601",
+                    "y": "0.3051"
+                },
+                {
+                    "id": "lib-con-m",
+                    "title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "searchlink":"vw-con-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.2705",
+                    "y": "0.4380"
+                },
+                {
+                    "id": "lib-cvm-m",
+                    "title": "College of Veterinary Medicine",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "searchlink":"vw-cvm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.5250",
+                    "y": "0.1216"
+                },
+                {
+                    "id": "lib-cmulhs",
+                    "title": "Central Mindanao University Laboratory High School",    
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/cmulhs.jpg",
+                    "pin":"blue iconpin fa fa-book",
+                    "x": "0.5045",
+                    "y": "0.8844"
+                }          
+                
+            ]
+        },
+        {
+            "id": "hosp-view",
+            "title": "Hospitals",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "hosp",
+                    "title": "University Hospital",
+                    "about": "",
+                    "description": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/hosp.jpg",
+                    "pin":"red iconpin fa fa-medkit",
+                    "x": "0.2577",
+                    "y": "0.4048"
+                },
+                {
+                    "id": "hosp-cvm-m",
+                    "title": "College of Veterinary Medicine - Animal Clinic",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "searchlink":"vw-cvm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                    "pin":"red iconpin fa fa-paw",
+                    "x": "0.4704",
+                    "y": "0.1141"
+                }
+            ]
+        },
+        {
+            "id": "eh-view",
+            "title": "Event Halls",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [                
+                {
+                    "id": "eh-ucc",
+                    "title": "University Convention Center",
+                    "about": "",
+                    "description": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/ucc.jpg",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.5065",
+                    "y": "0.2972"
+                },{
+                    "id": "eh-coa-m",
+                    "title": "College of Agriculture",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-ag-m",
+                    "searchlink":"vw-ag-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.4117", 
+                    "y": "0.1908"
+                },
+                {
+                    "id": "eh-cas-m",
+                    "title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "searchlink":"vw-cas-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.6365",
+                    "y": "0.3101"
+                },
+                {
+                    "id": "eh-cbm-m",
+                    "title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "searchlink":"vw-cbm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.5767",
+                    "y": "0.2107"
+                },
+                { 
+                    "id": "eh-coed-m",
+                    "title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "searchlink":"vw-coed-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.6668",
+                    "y": "0.2354"
+                },
+                {
+                    "id": "eh-coe-m",
+                    "title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coeng-m",
+                    "searchlink":"vw-coeng-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.7340",
+                    "y": "0.1317"
+                },
+                {
+                    "id": "eh-cfes-m",
+                    "title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",                    
+                    "link": "#/app/pr-cfes-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.2428",
+                    "y": "0.2131"
+                },
+                {
+                    "id": "eh-che-m",
+                    "title": "College of Human Ecology",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-che-m",
+                    "searchlink":"vw-che-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.3601",
+                    "y": "0.3051"
+                },
+                {
+                    "id": "eh-con-m",
+                    "title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "searchlink":"vw-con-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.2705",
+                    "y": "0.4380"
+                },
+                {
+                    "id": "eh-cvm-m",
+                    "title": "College of Veterinary Medicine",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "searchlink":"vw-cvm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.5250",
+                    "y": "0.1216"
+                },
+                {
+                    "id": "eh-cmulhs",
+                    "title": "Central Mindanao University Laboratory High School",    
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/cmulhs.jpg",
+                    "pin":"blue iconpin fa fa-institution",
+                    "x": "0.5045",
+                    "y": "0.8844"
+                }
+            ]
+        },
+        {
+            "id": "drm",
+            "title": "Dormitories",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [  
+                {
+                    "id": "grh",
+                    "title": "Gardenia Residence Hall",
+                    "about": "",
+                    "description": "Girls Dormitory",
+                    
+                    "category": "drm",
+                    "image": "img/cmu/BuildingPreviews/dorms/grh.jpg",
+                    "pin":"orange iconpin fa fa-home",
+                    "x": "0.2636",
+                    "y": "0.4856"
+                },
+                {
+                    "id": "lsv",
+                    "title": "Lawaan Student Village ",
+                    "about": "",
+                    "description": "Boys Dormitory",
+                    
+                    "category": "drm",
+                    "image": "img/cmu/BuildingPreviews/dorms/lsv.jpg",
+                    "pin":"orange iconpin fa fa-home",
+                    "x": "0.1829",
+                    "y": "0.5772"
+                },
+                {
+                    "id": "mhg",
+                    "title": "Mahogany Residence Hall",
+                    "about": "",
+                    "description": "Boys Dormitory",
+                    
+                    "category": "drm",
+                    "image": "img/cmu/BuildingPreviews/dorms/mrh.jpg", 
+                    "pin":"orange iconpin fa fa-home",
+                    "x": "0.3107",
+                    "y": "0.0478"
+                },
+                {
+                    "id": "rrh",
+                    "title": "Rose Residence Hall",
+                    "about": "",
+                    "description": "Girls Dormitory",
+                    
+                    "category": "drm",
+                    "image": "img/cmu/BuildingPreviews/dorms/rrh.jpg",
+                    "pin":"orange iconpin fa fa-home",
+                    "x": "0.8496",
+                    "y": "0.1133"
+                },  
+                {
+                    "id": "srh",
+                    "title": "Sunrise Residence Hall",
+                    "about": "",
+                    "description": "Coed Dormitory",  
+                    "category": "drm",
+                    "image": "img/cmu/BuildingPreviews/dorms/srh.jpg",
+                    "pin":"orange iconpin fa fa-home",
+                    "x": "0.6366",
+                    "y": "0.1504"
+                },
+                {
+                    "id": "crh",
+                    "title": "Cattleya Residence Hall",
+                    "about": "",
+                    "description": "Girls Dormitory",
+                    
+                    "category": "drm",
+                    "thumbnail":  "cmuim/images/cmu/cmu_logo_mini.png",
+                    "image": "img/cmu/BuildingPreviews/dorms/crh.jpg",
+                    "pin":"orange iconpin fa fa-home",
+                    "x": "0.3373",
+                    "y": "0.5693"
+                }
+            ]
+        },
+        {
+            "id": "off-view",
+            "title": "Offices",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "adm",
+                    "title": "Administration Building",
+                    "about": "",
+                    "description": "",
+                    "category": "off",
+                    "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+                    "pin":"blue iconpin fa fa-building",
+                    "x": "0.5551",
+                    "y": "0.3160"
+                },
+                {
+                    "id": "oasp",
+                    "title": "Office of Scholarships, Admissions, and Placements",
+                    "about": "",
+                    "description": "",
+                    "category": "off",
+                    "image": "img/cmu/BuildingPreviews/offices/oasp.jpg",
+                    "pin":"blue iconpin fa fa-building",
+                    "x": "0.5917",
+                    "y": "0.3680"
+                },
+                {
+                    "id": "osa",
+                    "title": "Office of Student Affairs",
+                    "about": "",
+                    "description": "",
+                    "category": "off",
+                    "image": "img/cmu/BuildingPreviews/offices/osa.jpg",
+                    "pin":"blue iconpin fa fa-building",
+                    "x": "0.4912",
+                    "y": "0.4458"
+                },
+                {
+                    "id": "prio",
+                    "title": "Public Relations and Information Office",
+                    "about": "",
+                    "description": "",
+                    "category": "off",
+                    "image": "img/cmu/BuildingPreviews/offices/prio.jpg",
+                    "pin":"blue iconpin fa fa-building",
+                    "x": "0.6985",
+                    "y": "0.3353"
+                },
+                {
+                    "id": "so",
+                    "title": "Security Office",
+                    "about": "",
+                    "description": "",
+                    "category": "off",
+                    "image": "img/cmu/BuildingPreviews/offices/so.jpg",
+                    "pin":"blue iconpin fa fa-building",
+                    "x": "0.6740",
+                    "y": "0.3734"
+                },
+                 
+                {
+                    "id": "ptgc-m",
+                    "title": "Psychological Testing and Guidance Center",    
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/ptgc.jpg",
+                    "pin":"blue iconpin fa fa-file-text",
+                    "x": "0.7352",
+                    "y": "0.4196"
+                },
+                {
+                    "id": "arlo",
+                    "title": "Alumni Relations and Linkages Office",
+                    "about": "",
+                    "description": "",         
+                    "category": "sar",
+                    "image": "img/cmu/BuildingPreviews/sports_and_rec/fulbright.jpg",
+                    "pin":"blue iconpin fa fa-building",
+                    "x": "0.4826",
+                    "y": "0.4933"
+                }         
+            ]
+        },
+        {
+            "id": "acad-view",
+            "title": "Academic Buildings",
+            "map":"lib/mapplic/maps/cmu.jpg",
+            "minimap": "lib/mapplic/maps/cmu.jpg",
+            "locations": [
+                {
+                    "id": "coa-m",
+                    "title": "College of Agriculture",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-ag-m",
+                    "searchlink":"vw-ag-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.4117", 
+                    "y": "0.1908"
+                },
+                {
+                    "id": "cas-m",
+                    "title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "searchlink":"vw-cas-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.6365",
+                    "y": "0.3101"
+                },
+                {
+                    "id": "cbm-m",
+                    "title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "searchlink":"vw-cbm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.5767",
+                    "y": "0.2107"
+                },
+                { 
+                    "id": "coed-m",
+                    "title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "searchlink":"vw-coed-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.6668",
+                    "y": "0.2354"
+                },
+                {
+                    "id": "coe-m",
+                    "title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coeng-m",
+                    "searchlink":"vw-coeng-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.7340",
+                    "y": "0.1317"
+                },
+                {
+                    "id": "cfes-m",
+                    "title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",
+                    
+                    "link": "#/app/pr-cfes-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.2428",
+                    "y": "0.2131"
+                },
+                {
+                    "id": "che-m",
+                    "title": "College of Human Ecology",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-che-m",
+                    "searchlink":"vw-che-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.3601",
+                    "y": "0.3051"
+                },
+                {
+                    "id": "con-m",
+                    "title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "searchlink":"vw-con-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.2705",
+                    "y": "0.4380"
+                },
+                {
+                    "id": "cvm-m",
+                    "title": "College of Veterinary Medicine",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "searchlink":"vw-cvm-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                    "thumbnail":  "img/cmu/cmu_logo.png",
+                    "pin": "red  iconpin fa fa-graduation-cap",
+                    "x": "0.5250",
+                    "y": "0.1216"
+                },
+                {
+                    "id": "cmulhs",
+                    "title": "Central Mindanao University Laboratory High School",    
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/cmulhs.jpg",
+                    "pin":"red iconpin fa fa-graduation-cap",
+                    "x": "0.5045",
+                    "y": "0.8844"
+                },
+                {
+                    "id": "cmu-shs",
+                    "title": "Central Mindanao University Senior High School",    
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/shs.jpg",
+                    "pin":"red iconpin fa fa-graduation-cap",
+                    "x": "0.6453",
+                    "y": "0.2298"
+                },
+                {
+                    "id": "ugs",
+                    "title": "University Graduate School",
+                    "about": "",
+                    "description": "",
+                    "category": "off",
+                    "image": "img/cmu/BuildingPreviews/facilities/ngs.jpg",
+                    "pin":"red iconpin fa fa-graduation-cap",
+                    "x": "0.5932",
+                    "y": "0.3791"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-cvm.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{			
+					"id": "r-cvm-m",
+					"title": "College of Veterinary Medicine",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.5391",
+                    "y": "0.1273"
+				},
+				{
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 85m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "121m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6480",
+                    "y": "0.3314"
+				},
+				{
+					"id": "r-landmark-2",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "220m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-left.jpg",
+                    "pin": "circular",
+                    "x": "0.6882",
+                    "y": "0.2699"
+				},
+				{
+					"id": "r-landmark-3",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "160m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.5153",
+                    "y": "0.2168"
+				},
+				{
+					"id": "r-landmark-4",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "40m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-left.jpg",
+                    "pin": "circular",
+                    "x": "0.5728",
+                    "y": "0.1386"
+				}	
+			]
+		}	
+	]
+} 

@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/con-coed-m.jpg",
+			"locations": [
+				{			
+					"id": "r-con-m",
+					"title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.2705",
+                    "y": "0.4380"
+				},
+				{
+					"id": "r-coed-m",
+					"title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.6668",
+                    "y": "0.2354"
+				}
+			]
+		}	
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/cfes-cas-m.jpg",
+			"locations": [
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.6365",
+                    "y": "0.3101"
+				},	
+				{					
+					"id": "r-cfes-m",
+					"title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cfes-m",
+                   	"image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.2428",
+                    "y": "0.2131"
+				}
+			]
+		}	
+	]
+}

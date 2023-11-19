@@ -1,0 +1,39 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			 
+		}
+	],
+	"levels": [
+		{ 
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-adm.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+						{
+		                    "id": "r-adm",
+		                    "title": "Administration Building",
+		                    "about": "",
+		                    "description": "",
+		                    "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+		                    "pin":"blue iconpin fa fa-institution",
+		                    "x": "0.5810",
+		                    "y": "0.3209"
+		                },
+						{
+		                    "id": "r-mg",
+		                    "title": "University Main Gate",    
+		                    "about": "",
+		                    "description": "Move Forward:<br> 158m",
+		                    "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		                    "pin":"red iconpin fa ion-android-walk",
+							"x": "0.7175",
+							"y": "0.3550"
+						}			
+			]
+		}	
+	]
+}

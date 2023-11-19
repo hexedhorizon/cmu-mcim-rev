@@ -1,0 +1,39 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{
+			 
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/cas-adm.jpg",
+			"locations": [
+				{
+		            "id": "r-adm",
+		            "title": "Administration Building",
+		            "about": "",
+		            "description": "",
+		            "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+		            "pin":"blue iconpin fa fa-institution",
+		            "x": "0.5551",
+		            "y": "0.3160"
+		        },
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.6365",
+                    "y": "0.3101"
+				}				
+			]
+		}	
+	]
+}

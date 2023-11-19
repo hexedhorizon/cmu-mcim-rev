@@ -1,0 +1,545 @@
+[
+    {
+      "searchs" : [
+      {
+          "category":"Academic Buildings",
+          "lists" : [ 
+            {
+              "id": "f-ag-main", 
+              "title": "College of Agriculture",
+              "image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coa-m",
+              "tags": "Jan Ariss Jadraque, Stephanie Dayaganon, Jessaklys Magbanua"
+            },
+            {
+              "id": "f-cas-m",
+              "title": "College of Arts and Sciences",
+               "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "Khem Mecla, Jean Vrazl Mae Garcia, Cassy Leonar"
+            },
+            {  
+              "id": "f-cbm",
+              "title": "College of Business Management",
+              "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "Christine Ching II, Edmie Ann Espuerta," 
+            },
+            { 
+              "id": "f-coed-b",
+              "title": "College of Education",
+              "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coed-m"
+            },
+            {
+              "id": "f-coe-m",
+              "title": "College of Engineering",
+              "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coe-m",
+              "tags": "Isabel Duetes, Jerrson Oronan, Rizz Chabelita Jumawid, Godfrey Calledo, Dave Munalem, Clint Rapisora"
+              
+            },
+            {
+              "id": "f-cfes-m",
+              "title": "College of Forestry and Environmental Science",
+              "image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+              "description": "", 
+              "searchlink":"#/app/pr-cfes-m"
+            },
+            {
+              "id": "f-che",
+              "title": "College of Human Ecology",
+               "image": "img/cmu/BuildingPreviews/colleges/che-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-che-m",
+              "tags": "Ugen Heruela, Kate Beatrix Belza"
+            },
+            {
+              "id": "f-con",
+              "title": "College of Nursing",
+              "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-con-m"
+            },
+            {
+              "id": "f-vm",
+              "title": "College of Veterinary Medicine",
+              "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cvm-m",
+              "tags": "JC Corilla"
+            },
+            {
+              "id": "", 
+              "title": "Central Mindanao University Laboratory High School",
+              "image": "img/cmu/BuildingPreviews/facilities/cmulhs.jpg",
+              "description": "Junior and Senior High School",
+              "searchlink":"?location=cmulhs",
+              "tags": "Facilities, Stem, stem strand"
+            },
+            {
+              "id": "", 
+              "title": "Central Mindanao University Senior High School",
+              "image": "img/cmu/BuildingPreviews/facilities/shs.jpg",
+              "description": "Strands Offered: ABM, STEM, and HUMSS Technical Vocational Strand: Animal Production",
+              "searchlink":"?location=cmu-shs-m",
+              "tags": "Facilities,strand"
+            },
+            {
+              "id": "", 
+              "title": "University Graduate School",
+              "image": "img/cmu/BuildingPreviews/facilities/ngs.jpg",
+              "description": "",
+              "searchlink":"?location=ug",
+              "tags": "Facilities"
+            }
+            
+          ]
+        },
+        {
+          "category":"Offices",
+          "lists" : [
+            {
+              "id": "", 
+              "title": "Administration Building",
+              "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+              "description": "",
+              "searchlink":"?location=adm",
+              "tags": "office"
+            },
+            {
+              "id": "", 
+              "title": "Office of Admissions, Placements and Scholarships",
+              "image": "img/cmu/BuildingPreviews/offices/oasp.jpg",
+              "description": "",
+              "searchlink":"?location=oasp"
+            },
+            {
+              "id": "", 
+              "title": "Office of Student Affairs",
+              "image": "img/cmu/BuildingPreviews/offices/osa.jpg",
+              "description": "",
+              "searchlink":"?location=osa",
+               "tags": "121519, 21119, yeyelg"
+            },
+            {
+              "id": "", 
+              "title": "Public Relations and Information Office",
+              "image": "img/cmu/BuildingPreviews/offices/prio.jpg",
+              "description": "",
+              "searchlink":"?location=prio"
+            },
+            {
+              "id": "", 
+              "title": "Security Office",
+              "image": "img/cmu/BuildingPreviews/offices/so.jpg",
+              "description": "",
+              "searchlink":"?location=so"
+            },
+           
+            {
+              "id": "", 
+              "title": "Psychological Testing and Guidance Center",
+              "image": "img/cmu/BuildingPreviews/facilities/ptgc.jpg",
+              "description": "",
+              "searchlink":"?location=ptgc-m",
+              "tags": "Facilities, Testing"
+            }     
+          ]
+        },
+        {
+          "category":"Dormitories",
+          "lists" : [
+            {
+              "id": "", 
+              "title": "Cattleya Residence Hall",
+              "image": "img/cmu/BuildingPreviews/dorms/crh.jpg",
+              "description": "",
+              "searchlink":"?location=crh",
+              "tags": "dorm, dormitory,all female,girls dormitory"
+            },
+            {
+              "id": "", 
+              "title": "Gardenia Residence Hall",
+              "image": "img/cmu/BuildingPreviews/dorms/grh.jpg",
+              "description": "",
+              "searchlink":"?location=grh",
+               "tags": "dorm,dormitory,all female,girls  dormitory"
+            },
+            {
+              "id": "", 
+              "title": "Lawaan Student Village",
+              "image": "img/cmu/BuildingPreviews/dorms/lsv.jpg",
+              "description": "",
+              "searchlink":"?location=lsv",
+              "tags": "dorm,dormitory,all male,boys  dormitory"
+            },
+            {
+              "id": "", 
+              "title": "Mahogany Residence Hall",
+              "image": "img/cmu/BuildingPreviews/dorms/mrh.jpg",
+              "description": "",
+              "searchlink":"?location=mrh",
+               "tags": "dorm, dormitory,all male,boys  dormitory"
+            },
+            {
+              "id": "", 
+              "title": "Rose Residence Hall",
+              "image": "img/cmu/BuildingPreviews/dorms/rrh.jpg",
+              "description": "",
+              "searchlink":"?location=rrh",
+              "tags": "dorm, dormitory,all female, girls dormitory"
+            },
+            {
+              "id": "", 
+              "title": "Sunrise Residence Hall",
+              "image": "img/cmu/BuildingPreviews/dorms/srh.jpg",
+              "description": "",
+              "searchlink":"?location=srh",
+              "tags": "dorm ,coed dormitory"
+            }      
+            
+          ]
+        },
+        {
+          "category":"Hospitals",
+          "lists" : [
+           
+            {
+              "id": "", 
+              "title": "University Hospital",
+              "image": "img/cmu/BuildingPreviews/facilities/hosp.jpg",
+              "description": "",
+              "searchlink":"?location=hosp",
+              "tags": "Facilities"
+            }
+          ]
+        },
+        {
+          "category":"Event Halls",
+          "lists" : [
+            {
+              "id": "", 
+              "title": "University Convention Center",
+               "image": "img/cmu/BuildingPreviews/facilities/ucc.jpg",
+              "description": "",
+              "searchlink":"?location=eh-ucc",
+              "tags": "ucc , Facilities"
+            }
+          ]
+        },
+        {
+          "category":"Landmarks",
+          "lists" : [
+           {
+              "id": "", 
+              "title": "Main Gate",
+              "image": "img/cmu/BuildingPreviews/facilities/mg.jpg",
+              "description": "",
+              "searchlink":"?location=mg",
+              "tags": "Facilities"
+            },
+            {
+              "id": "", 
+              "title": "CMU Landmark",
+              "image": "img/cmu/BuildingPreviews/landmarks/cmu-letter.jpg",
+              "description": "",
+              "searchlink":"?location=cmu-letter",
+              "tags": ""
+            },
+            {
+              "id": "", 
+              "title": "Forestry Stairs",
+              "image": "img/cmu/BuildingPreviews/landmarks/stairs.jpg",
+              "description": "",
+              "searchlink":"?location=cmu-forestry",
+               "tags": "121519, 21119, yeyelg"
+            },
+            {
+              "id": "", 
+              "title": "CMU Obelisk",
+              "image": "img/cmu/BuildingPreviews/landmarks/obelisk.jpg",
+              "description": "",
+              "searchlink":"?location=cmu-obe",
+              "tags": ""
+            }
+          ]
+        },
+        {
+          "category":"Courses Offered",
+          "lists" : [ 
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Agriculture",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "Majors in Agronomy, Animal Science, Entomology, Horticulture, Plant Breeding, Plant Pathology, Soil Science, and Agricultural Economics",
+              "searchlink":"#/app/pr-coa-m",
+              "tags": "bs, programs, College of Agriculture"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Agribusiness Management",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coa-m",
+              "tags": "bs, programs, College of Agriculture"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Development Communication",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coa-m",
+              "tags": ", programs, College of Agriculture"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Arts in English and Language Studies",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "ba, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Arts in History",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "ba, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Arts in Political Science",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "ba, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Arts in Psychology",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "ba, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Arts in Sociology",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "ba, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Biology",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "bs, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Chemistry",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "bs, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Mathematics",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "bs, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Physics",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cas-m",
+              "tags": "bs, programs, College of Arts and Sciences"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Accountancy",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "bs, programs, , College of Business Management"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Accounting Information System",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "bs, programs, College of Business Management "
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Internal Auditing",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "bs, programs, College of Business Management"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Management Accounting",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "bs, programs, College of Business Management"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Office Administration",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "bs, programs, College of Business Management"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Business Administration",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cbm-m",
+              "tags": "bs, programs, College of Business Management"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Secondary Education",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "English, Filipino, Mathematics and Sciences",
+              "searchlink":"#/app/pr-coed-m",
+              "tags": ", programs, College of Education"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Physical Education",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coed-m",
+              "tags": ", programs, College of Education"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Agricultural and Biosystems Engineering",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coe-m",
+              "tags": "bs, programs, College of Engineering"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Electrical Engineering",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coe-m",
+              "tags": "bs, programs,Elwin Jay Tano, College of Engineering"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Information Technology",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coe-m",
+              "tags": "bs, programs, College of Engineering"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Civil Engineering",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coe-m",
+              "tags": "bs, programs, College of Engineering"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Mechanical Engineering",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-coe-m",
+              "tags": "bs, programs, College of Engineering"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Environmental Science",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cfes-m",
+              "tags": "bs, programs, College of Forestry and Environmental Science"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Forestry",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cfes-m",
+              "tags": "bs, programs, College of Forestry and Environmental Science"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Home Economics",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-che-m",
+              "tags": "bs, programs, College of Human Ecology"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Food Technology",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-che-m",
+              "tags": "bs, programs, College of Human Ecology"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Nutrition and Dietetics",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-che-m",
+              "tags": "bs, programs, College of Human Ecology"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Hospitality Management",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-che-m",
+              "tags": "bs, programs, College of Human Ecology"
+            },
+            {
+              "id": "", 
+              "title": "Bachelor of Science in Nursing",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-con-m",
+              "tags": "bs, programs, College of Nursing"
+            },
+            {
+              "id": "", 
+              "title": "Doctor of Veterinary Medicine",
+              "image":"img/feeds/logos/cmu.jpg",
+              "description": "",
+              "searchlink":"#/app/pr-cvm-m",
+              "tags": ", programs, College of Veterinary Medicine"
+            }
+            
+          ]
+        }
+      ]
+    }
+]

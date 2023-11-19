@@ -1,0 +1,39 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/coed-adm.jpg",
+			"locations": [
+				{
+		            "id": "r-adm",
+		            "title": "Administration Building",
+		            "about": "",
+		            "description": "",
+		            "image": "img/cmu/BuildingPreviews/offices/adm.jpg",
+		            "pin":"blue iconpin fa fa-institution",
+		            "x": "0.5551",
+		            "y": "0.3160"
+		        },
+				{
+					"id": "r-coed-m",
+					"title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.6668",
+                    "y": "0.2354"
+				}
+			]
+		}	
+	]
+}

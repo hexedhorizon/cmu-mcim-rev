@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/cvm-coe-m.jpg",
+			"locations": [
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coe-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.7340",
+                    "y": "0.1317"
+				},
+				{		
+					"id": "r-cvm-m",
+					"title": "College of Veterinary Medicine",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cvm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cvm-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.5250",
+                    "y": "0.1216"
+				}
+			]
+		}	
+	]
+}

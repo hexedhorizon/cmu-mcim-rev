@@ -1,0 +1,22 @@
+<ion-view view-title="">
+  <ion-content>
+    <div class="col-xs-12 col-md-6 col-lg-5">
+      <div class="product-card">
+         <ion-slide-box show-pager="true">
+            <ion-slide ng-repeat="i in [1,2]">
+                    <div class="item item-image">
+                      <img ng-src="img/preview/cfes/{{i}}.jpg">
+                    </div>
+            </ion-slide>
+          </ion-slide-box>
+          <div class="card-block">
+            <h4 class="card-title">College of Forestry and Environmental Science Main Building</h4>
+            <p class="card-text"></p>
+              <div class="list">   
+          </div> 
+          <a class="button button-full button-positive icon-right ion-clipboard"  href="#/app/vw-cfes-m" >View More</a>
+         <!-- <a class="button button-full button-calm  icon-right ion-forward"  href="#/app/pr-rt-cfes-m"  >Directions</a>-->
+          <a class="button button-full button-balanced icon-right ion-map"  href="?location=f-cfes-m"   >Go to map</a>
+      </div>
+    </div>
+  </ion-content>

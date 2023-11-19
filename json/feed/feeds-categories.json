@@ -1,0 +1,59 @@
+[ 	
+	{
+		"id":"campus-news",
+		"title":"Campus News",
+		"image":"img/feeds/cmu-feed.jpg",
+		"feed_sources":[
+			{
+				"id":"cmu-website",
+				"title":"CMU Website",
+				"description":"CMU Official Website",
+				"image":"img/feeds/logos/cmu.jpg",
+				"url":"http://musuan.site/evangelio/cmu-nav/rss/cmu-edu-ph.xml"
+			},
+			{
+				"id":"cmu-today",
+				"title":"CMU Today",
+				"description":"CMU-PRIO Facebook News page",
+				"image":"img/feeds/logos/cmu.jpg",
+				"url":"http://fetchrss.com/rss/5dc89a998a93f8aa768b45675dc89a7b8a93f8c9758b4567.xml"
+			},
+			{
+				"id":"cmu-ssc",
+				"title":"CMU SSC",
+				"description":"CMU Supreme Student Council facebook page",
+				"image":"img/feeds/logos/cmussc.jpg",
+				"url":"http://fetchrss.com/rss/5dc89a998a93f8aa768b45675dc89ad58a93f81c788b4567.xml"
+			}
+			
+		]
+	},
+	{
+		"id":"admissions",
+		"title":"Admissions",
+		"image":"img/feeds/cmu-feed.jpg",
+		"feed_sources":[
+			{
+				"id":"cmu-oasp",
+				"title":"CMU OASP",
+				"description":"CMU-OASP Facebook News page",
+				"image":"img/feeds/logos/cmu.jpg",
+				"url":"http://fetchrss.com/rss/5dc89a998a93f8aa768b45675dc89b148a93f855798b4567.xml"
+			}
+		]
+	},
+	{
+		"id":"campus-organizations",
+		"title":"Campus Organizations",
+		"image":"img/feeds/cmu-feed.jpg",
+		"feed_sources":[
+			{
+				"id":"cmu-ssc",
+				"title":"CMU SSC",
+				"description":"CMU Supreme Student Council facebook page",
+				"image":"img/feeds/logos/cmussc.jpg",
+				"url":"http://fetchrss.com/rss/5dc89a998a93f8aa768b45675dc89ad58a93f81c788b4567.xml"
+			}
+		]
+	}
+]

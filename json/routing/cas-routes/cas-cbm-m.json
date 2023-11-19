@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{
+			 
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/cbm-cas-m.jpg",
+			"locations": [
+				{
+					"id": "r-cbm-m",
+					"title": "College of Business Management",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cbm-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cbm-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.5767",
+                    "y": "0.2107"
+				},
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.6365",
+                    "y": "0.3101"
+				}								
+			]
+		}	
+	]
+}

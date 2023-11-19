@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{
+			 
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/con-cas-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{			
+					"id": "r-con-m",
+					"title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.2705",
+                    "y": "0.4380"
+				},
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.6365",
+                    "y": "0.3101"
+				}			
+			]
+		}	
+	]
+}

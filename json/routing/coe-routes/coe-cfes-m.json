@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/coe-cfes-m.jpg",
+			"locations": [
+				{					
+					"id": "r-cfes-m",
+					"title": "College of Forestry and Environmental Science",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cfes-m",
+                   	"image": "img/cmu/BuildingPreviews/colleges/cfes-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.2428",
+                    "y": "0.2131"
+				},
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coe-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.7340",
+                    "y": "0.1317"
+				}
+			]
+		}	
+	]
+}

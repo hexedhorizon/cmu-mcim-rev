@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/market-cas-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-cas-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "red  iconpin fa ion-android-walk",
+                    "x": "0.6288",
+                    "y": "0.3200"
+				},	
+				{
+					"id": "r-market-m",
+					 "title": "University Commercial Complex",
+                    "about": "",
+                    "description": "University Market",         
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/market.jpg",
+					"pin": "blue  iconpin fa fa-institution",
+					"x": "0.4158", 
+                    "y": "0.6971"
+				}							
+			]
+		}	
+	]
+} 

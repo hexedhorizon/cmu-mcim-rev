@@ -1,0 +1,50 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-cas-m.jpg",
+			"minimap": "maps/cmu-mini.jpg",
+			"locations": [
+				{
+					"id": "r-cas-m",
+					"title": "College of Arts and Sciences - Main",
+                    "about": "",
+                    "description": "",
+                    "link": "",
+                    "image": "img/cmu/BuildingPreviews/colleges/cas-m.jpg",
+                    "pin": "blue iconpin fa fa-institution",
+                    "x": "0.6291",
+                    "y": "0.3195"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Right to College of Arts and Sciences",
+                    "about": "",
+                    "description": "4m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.6253",
+                    "y": "0.3262"
+				},	
+				{
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 113m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				}						
+			]
+		}	
+	]
+} 

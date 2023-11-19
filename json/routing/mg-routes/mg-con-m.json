@@ -1,0 +1,69 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/mg-con.jpg",
+			"locations": [
+				{			
+					"id": "r-con-m",
+					"title": "College of Nursing",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-con-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/con-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.2820",
+                    "y": "0.4214"
+				},
+				{
+		            "id": "r-mg",
+		            "title": "University Main Gate",    
+		            "about": "",
+		            "description": "Move Forward:<br> 85m",
+		            "image": "img/cmu/BuildingPreviews/direction/move-forward.jpg",
+		            "pin":"red iconpin fa ion-android-walk",
+					"x": "0.7175",
+					"y": "0.3550"
+				},
+				{
+					"id": "r-landmark-1",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "147m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-Left.jpg",
+                    "pin": "circular",
+                    "x": "0.6480",
+                    "y": "0.3314"
+				},
+				{
+					"id": "r-landmark-2",
+					"title": "Turn Right",
+                    "about": "",
+                    "description": "242m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-right.jpg",
+                    "pin": "circular",
+                    "x": "0.5931",
+                    "y": "0.4076"
+				},
+				{
+					"id": "r-landmark-3",
+					"title": "Turn Left",
+                    "about": "",
+                    "description": "214m",
+                    "image": "img/cmu/BuildingPreviews/direction/turn-Left.jpg",
+                    "pin": "circular",
+                    "x": "0.4204",
+                    "y": "0.3519"
+				}	 				
+			]
+		}	
+	]
+} 

@@ -1,0 +1,26 @@
+<ion-view view-title="Routes">
+	<ion-nav-buttons side="right">
+	   <button ng-click="showHelp()" class="button button-icon icon ion-help-circled"></button>
+	</ion-nav-buttons>
+ <ion-content drag-content="false" scroll="false" >
+ 	<div class="col-xs-12 col-md-6 col-lg-5">
+        <div class="card">
+		    <div class="item item-image">    
+		      <img src="img/polishing.jpg">
+		    </div>
+			 <label class="item item-input item-stacked-label item-floating-label ">
+				<h2 class="icon ion-android-walk icon" style="padding-bottom:2px;" > Starting Location</h2>
+					 <input type="text" ng-init="routeFrom ='College of Human Ecology'" ng-model="routeFrom" disabled>
+			  </label>
+			  <label class="item item-input item-stacked-label">
+				<h2 class="icon   ion-android-pin icon" style="padding-bottom:2px;" > Destination</h2>
+					   <autocomplete  data-tap-disabled="true" ng-model="routeTo" data="routeLocationsTo" on-select="updateLocation"></autocomplete>
+			  </label>
+			  <button  ion-button class="button button-block button-balanced" ng-click="goToRoute(routeFrom,routeTo)" >Show Path</button>
+		</div>
+	</div>
+ </ion-content> 
+  
+</ion-view>
+  
+   

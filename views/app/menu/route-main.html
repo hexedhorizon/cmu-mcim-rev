@@ -1,0 +1,22 @@
+<ion-view view-title="Routes">
+	<ion-nav-buttons side="right">
+	   <button ng-click="showHelp()" class="button button-icon icon ion-help-circled"></button>
+	</ion-nav-buttons>
+ <ion-content drag-content="false" scroll="false" >
+    <div class="item item-image">    
+      <img src="img/polishing.jpg">
+    </div>
+	 <label class="item item-input item-stacked-label item-floating-label ">
+		<h2 class="icon ion-android-walk icon" > Starting Location</h2>
+			 <autocomplete onfocus="this.value=''"  data-tap-disabled="true" ng-model="routeFrom" data="routeLocationsFrom" on-select="updateLocation">From</autocomplete>
+	  </label>
+	  <label class="item item-input item-stacked-label">
+		<h2 class="icon   ion-android-pin icon" > Destination</h2>
+			   <autocomplete  data-tap-disabled="true" ng-model="routeTo" data="routeLocationsTo" on-select="updateLocation"></autocomplete>
+	  </label>
+	  <button  ion-button class="button button-block button-balanced" ng-click="goToRoute(routeFrom,routeTo)" >Show Path</button>
+ </ion-content> 
+  
+</ion-view>
+  
+  

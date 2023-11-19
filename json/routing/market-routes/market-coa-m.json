@@ -1,0 +1,40 @@
+{
+	"mapwidth": "600",
+    "mapheight": "900",
+	"categories": [
+		{
+			
+		}
+	],
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/market-coa-m.jpg",
+			"locations": [
+				{
+     				"id": "r-coa-m",
+     				"title": "College of Agriculture",
+     				"about": "",
+     				"description": "",
+     				"link": "#/app/pr-coa-m",
+     				"image": "img/cmu/BuildingPreviews/colleges/ag-m.jpg",
+     				"pin": "red  iconpin fa ion-android-walk",
+     				"x": "0.4281", 
+                    "y": "0.1904"
+				},
+				{
+					"id": "r-market-m",
+					 "title": "University Commercial Complex",
+                    "about": "",
+                    "description": "University Market",         
+                    "category": "fac",
+                    "image": "img/cmu/BuildingPreviews/facilities/market.jpg",
+					"pin": "blue  iconpin fa fa-institution",
+					"x": "0.4158", 
+                    "y": "0.6971"
+				}						
+			]
+		}	
+	]
+} 

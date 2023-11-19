@@ -1,0 +1,32 @@
+<ion-view class="feeds-categories-view">
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>PRACTICE SOME STUFF HERE</span>
+  </ion-nav-title>
+  <ion-content>
+  <!--
+    <ul>
+    <li ng-repeat="attr in data">
+     <ion-list>
+        <ion-radio name='data-attr' value='{{attr.id}}' ng-model="selected.id">{{attr.name}}</ion-radio>
+      </ion-list>
+    </li>
+    </ul>
+  <h1>Selected: {{selected.id}}</h1>
+  -->
+  <div class="list">
+    <label class="item item-input">
+      <input type="text" ng-model="id" placeholder="First Name">
+    </label>
+  </div>
+  <button ng-click="nextpage()" class="button button-large button-dark">
+    Large Button
+  </button>
+  <h1>{{id}}</h1>
+
+  </ion-content>
+</ion-view>
+
+  

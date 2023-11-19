@@ -1,0 +1,41 @@
+{
+	"mapwidth": "600",
+	"mapheight": "900",
+	"categories": [
+		{ 
+			 
+		}
+	], 
+	"levels": [
+		{
+			"id": "free-view",
+			"title": "Free Roam",
+			"map":"maps/routing/coe-coed-m.jpg",
+			"locations": [
+				{
+					"id": "r-coed-m",
+					"title": "College of Education",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coed-m",
+                    "image": "img/cmu/BuildingPreviews/colleges/coed-m.jpg",
+                    "pin": "blue  iconpin fa fa-institution",
+                    "x": "0.6668",
+                    "y": "0.2354"
+				},
+				{
+					"id": "r-coe-m",
+					"title": "College of Engineering",
+                    "about": "",
+                    "description": "",
+                    "link": "#/app/pr-coe-m",
+                    "category": "col",
+                    "image": "img/cmu/BuildingPreviews/colleges/coe-m.jpg",
+                     "pin": "red iconpin fa ion-android-walk",
+                    "x": "0.7340",
+                    "y": "0.1317"
+				}
+			]
+		}	
+	]
+}
